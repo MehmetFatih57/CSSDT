@@ -1,0 +1,29 @@
+*{
+   color: blue; 
+   background-color: rgba(239, 199, 170, 0.633);
+   font-size: 30px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+   text-align: center;
+   font-weight: 900;
+   font-style: oblique;
+   text-decoration: underline;
+   text-transform: lowercase;
+
+}
+
+.h2-class{
+    font-style: normal;
+    color: rgb(0, 17, 49) !important;
+     
+    
+}
+
+
+
+
+
+
+
+
+
+
